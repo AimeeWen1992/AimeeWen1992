@@ -1,5 +1,5 @@
 ### Hi there 👋 I am `Aimee`
-> An student in Computer Programming at Seneca College, Toronto.
+> A software engineer with 8 years experiences of Radiologist.
 
 - 💻 I am a  software engineer intern at rCycle
 - 🩻 I have 8.5 years experiences of Radiologist
